@@ -4,8 +4,8 @@ class script(object):
 ɪ ᴀᴍ ᴘᴏᴡᴇʀ ғᴜʟʟ PC ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ
 ɪ ᴀᴍ ᴘᴍ sʜᴏʀᴛɴᴇʀ-ʟɪɴᴋ ʙᴏᴛ
 
-ᴄʀᴇᴀᴛᴏʀ : <a href="https://t.me/netflix_india_007">NETFLIX_INDIA_007</a> 😎
-ᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ: <a href="https://t.me/netflix_india_007">NETFLIX_INDIA_007</a>😎 </b>"""
+ᴄʀᴇᴀᴛᴏʀ : <a href="https://t.me/">Praveen00712</a> 😎
+ᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ: <a href="https://t.me/Praveen00712">Praveen00712</a>😎 </b>"""
 
     
     HELP_TXT = """<b>Hᴇʏ {}
@@ -13,7 +13,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>
  ᴍʏ ɴᴀᴍᴇ : {}😎
- ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/netflix_india_007'>NETFLIX_INDIA_007</a>
+ ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/Praveen00712'>Praveen00712</a>
  ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a>
  ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a>
  ʜᴏsᴛᴇᴅ ᴏɴ  : <a href='https://www.heroku.com/'>Hᴇʀᴏᴋᴜ</a>
@@ -45,7 +45,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/netflix_india_007)</code>
+<code>[Button Text](buttonurl:https://t.me/Praveen00712)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -208,7 +208,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b><a href="https://t.me/netflixvilla_india">{file_name}
+    CAPTION = """<b><a href="https://t.me/cinemav001">{file_name}
 
 sɪᴢᴇ : {file_size}
 Pʟᴇᴀsᴇ Fᴏʀᴡᴀʀᴅ Tʜɪs Fɪʟᴇ</a></b>"""
